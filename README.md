@@ -19,7 +19,7 @@
 
 ---
 
-> **📢 加入我们的 [Telegram 交流群](https://t.me/+CsxZGItXdW40ZWVl) 进行**~~技术探讨、催更、~~**吹牛逼、搞抽象。**
+> **📢 原作者已经删库跑路，哈哈哈，原交流群已解散，目前我还没打算继承衣钵，如果需求多的话再考虑维护**
 >
 > **📖 查看 [LocationSpoofer 详细使用教程](https://docs.google.com/document/d/1fFEz3k7ATdN2dwY1L3RJn1QuzgokIsslNa88-vUPxPk/edit?usp=sharing)**
 
